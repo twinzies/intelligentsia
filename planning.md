@@ -3,7 +3,7 @@ Timeline
 ... : Does not fit a specific time, but pre-protest thus far.
 
 From Utopia:
-Now ----...---- Protest-brewing ---- Protest ---- Chaos ---- Singularity ---- Utopian Intelligentsia ---- The End ---- Rebirth ---- The SI ---- D-Day ----> t
+Now ----...---- Protest-brewing [1] ---- Protest [1] ---- Chaos [14] ---- Singularity [11] ---- Utopian Intelligentsia [6] ---- The End [8] ---- Rebirth [5] ---- The SI [9]---- D-Day [1] ----> t
 
 The system of worlds: 
 Jupiter (Advanced society of SI + Humanity) ---- Mars (Regressive society, primarily humans) ---- Utopia (Where most things occur, dystopian).
@@ -27,7 +27,7 @@ r* : Correlated story (if any).
 | 10 | The Rebirth GRAPHIC              | Rebirth               | 39 | NA |
 | 11 | The New Blueprint                | b/w Rebirth - The SI  | 40 | ?? |
 | 12 | The SI/SI                        | The SI                | 42 | 13 |
-| 13 | The Optimization or The HU/HU    | The SI                | 45 | 12 | Written a lot of it
+| 13 | The Optimization or The HU/HU    | The SI / D-Day        | 45 | 12 | Written a lot of it
 | 14 | All Permissible Combos GRAPHIC   | The SI                | 49,81 | ?? |
 | 15 | U or Dunning Kruger GRAPHIC      | The SI                | 50 | ?? |
 | 16 | The Bug or b-1234567             | The SI                | 51 | ~13 |
