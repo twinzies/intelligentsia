@@ -41,16 +41,16 @@ r* : Correlated story (if any).
 | 24 | Alice & Bot                      | Intelligentsia        | 90 | 27 |
 | 25 | The Founders                     | b/w Intelligentsia-End| 94 | NA |
 | 27 | Every Bot has its Day            | Intelligentsia        | 101| 24 |
-| 28 | Brownie points GRAPHIC           | The SI                | 104 | -- |
+| 28 | Brownie points GRAPHIC           | The SI                | 104 | NA |
 | 29 | The First Time Ever              | Intelligentsia        | 105 | 24 |
 | 30 | The Courtroom Scene              | Intelligentsia        | 106 | 24 |
 | 31 | A hung-up human                  | Chaos                 | 110 | NA |
-| 32 | The Testimonies                  | Begin Singularity     | -- | -- |
+| 32 | The Testimonies                  | Begin Singularity     | ?? | ?? |
 | 33 | An Unsolved Mystery              | b/w Chaos -Singularity| 116 | 34 | Written, almost complete, could be set in Intelligentsia
 | 34 | Potential                        | b/w Chaos -Singularity| 122 | 33 | Written a lot, could be set in Intelligentsia or be a part of the Corporation's plan if Chaos
 | 35 | The Professor                    | Intelligentsia        | 126 | NA |
 | 36 | The Purge                        | Chaos                 | 130 | NA |
-| 37 | A new thought of the Old One     | Rebirth               | 134 | -- |
+| 37 | A new thought of the Old One     | Rebirth               | 134 | ?? |
 | 38 | Enlightenment                    | Singularity towards I | 135 | 39 | Need to rename Rita, because the name is used in p11
 | 39 | The Outsiders                    | Singularity towards I | 138 | 38 |
 | 40 | The 3 Laws of The Intelligentsia | Singularity           | 143 | NA | Revised laws of robotics, must write in v1
@@ -65,7 +65,7 @@ r* : Correlated story (if any).
 | 49 | The Gods play Dice               | Chaos                 | 176 | NA | Some mention of Tara, optional
 | 50 | The Alignment Problem            | near to The End       | 178 | NA |
 | 51 | The Whistleblower                | near to The End       | 180 | ~48 |
-| 52 | The Last Scientist               | The End               | 183 | -- | Eve's Childhood, written somewhat - critical thoughts in this one. TODO: see if there are any other stories about Eve's childhood.
+| 52 | The Last Scientist               | The End               | 183 | ?? | Eve's Childhood, written somewhat - critical thoughts in this one. TODO: see if there are any other stories about Eve's childhood.
 
 Row Template :
 | ## | Title Title                      | timing                | -- | -- |
